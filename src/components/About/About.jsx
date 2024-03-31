@@ -12,19 +12,20 @@ export default function About() {
             />
           </div>
           <div className="md:7/12 lg:w-6/12">
-            <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-              React development is carried out by passionate developers
+            <h2 className="text-1xl text-gray-900 font-bold md:text-4xl">
+              A well-designed gallery website serves as a dynamic platform for
+              artists to showcase their work, connect with audiences.
             </h2>
             <p className="mt-6 text-gray-600">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum
-              omnis voluptatem accusantium nemo perspiciatis delectus atque
-              autem! Voluptatum tenetur beatae unde aperiam, repellat expedita
-              consequatur! Officiis id consequatur atque doloremque!
+              A gallery website is a digital platform designed to showcase and
+              display various forms of visual content, such as artwork,
+              photography, videos, or any other creative work.
             </p>
             <p className="mt-4 text-gray-600">
-              Nobis minus voluptatibus pariatur dignissimos libero quaerat iure
-              expedita at? Asperiores nemo possimus nesciunt dicta veniam
-              aspernatur quam mollitia.
+              These websites serve as virtual galleries, allowing artists,
+              photographers, designers, or curators to exhibit their work to a
+              global audience. Here is a breakdown of components typically found
+              in a gallery website.
             </p>
           </div>
         </div>

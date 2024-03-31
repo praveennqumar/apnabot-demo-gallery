@@ -3,13 +3,6 @@ import React from "react";
 function Login() {
   return (
     <div>
-      {/*
-  Heads up! 👋
-
-  Plugins:
-    - @tailwindcss/forms
-*/}
-
       <section className="bg-white">
         <div className="lg:grid lg:min-h-screen lg:grid-cols-12">
           <section className="relative flex h-32 items-end bg-gray-900 lg:col-span-5 lg:h-full xl:col-span-6">
@@ -36,12 +29,13 @@ function Login() {
               </a>
 
               <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-                Welcome to Squid 🦑
+                Welcome to ApnaBot
               </h2>
 
               <p className="mt-4 leading-relaxed text-white/90">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi nam dolorum aliquam, quibusdam aperiam voluptatum.
+                To encourage engagement and expand reach, gallery websites often
+                include social sharing buttons, allowing visitors to easily
+                share artworks or exhibitions on social media platforms.
               </p>
             </div>
           </section>
