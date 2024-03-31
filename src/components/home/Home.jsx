@@ -55,7 +55,7 @@ function Home() {
     // </div>
 
     <div className="container">
-      <h1>My Gallery</h1>
+      <h1>Welcome to My Gallery</h1>
       <div className="gallery">
         {/* <figure class="image-box">
       <img src="" alt="image1">
